@@ -1,72 +1,84 @@
 ### Summary
-Technology driven ICT generalist with a focus on Automation, Security, Build and Deployment infrastructure.
+I am a certified AWS Professional with a solid IT background. Mainly focused on Full Stack Automation in AWS, DevOps, CI/CD practises, Ansible/Puppet, GoLang, Serverless architecture, Git workflow, and everything modern and open sourced.
 ### Specialties
+- AWS
+- Full Stack Automation
 - DevOps
+- Zero Downtime deployments
+- Solutions Architecture/Implementation/Support.
 - Infrastructure automation (Infrastructure as a code )
 - Build and deployment automation ( One click button deployments )
 - Continuous Delivery/Integration/Improvements
 - Software engineers support
-- Technical problems Analysis and Troubleshooting
-- Technical Support
+- Technical problems analysis and troubleshooting
 
 ### Skills & Expertise
 <table>
   <tbody>
     <tr>
+      <td><sub>AWS</sub></td>
+      <td><sub>Full Stack Automation</sub></td>
       <td><sub>DevOps</sub></td>
-      <td><sub>Agile Methodologies</sub></td>
-      <td><sub>Test automation</sub></td>
-      <td><sub>Continuous Delivery</sub></td>
-      <td><sub>Linux</sub></td>
-      <td><sub>Vagrant</sub></td>
+      <td><sub>Agile Methodology</sub></td>
+      <td><sub>Cloud Dev/Ops</sub></td>
+      <td><sub>Tests automation</sub></td>
+      <td><sub>CI/CD</sub></td>
     </tr>
     <tr>
-      <td><sub>Puppet Enterprise stack</sub></td>
+      <td><sub>Linux</sub></td>
+      <td><sub>Puppet</sub></td>
+      <td><sub>Ansible</sub></td>
+      <td><sub>Mcollective</sub></td>
+      <td><sub>Vagrant</sub></td>
       <td><sub>Packer</sub></td>
       <td><sub>Docker</sub></td>
-      <td><sub>Ansible</sub></td>
-      <td><sub>Ruby</sub></td>
-      <td><sub>Rake</sub></td>
     </tr>
     <tr>
-      <td><sub>UNIX Shell scripting</sub></td>
+      <td><sub>Ruby</sub></td>
+      <td><sub>GoLang</sub></td>
+      <td><sub>Python</sub></td>
+      <td><sub>Bash scripting</sub></td>
       <td><sub>C</sub></td>
-      <td><sub>Perl</sub></td>
-      <td><sub>Apache Httpd</sub></td>
-      <td><sub>ActiveMQ</sub></td>
-      <td><sub>Git</sub></td>
+      <td><sub>SQL</sub></td>
+      <td><sub>PL/SQL</sub></td>
     </tr>
     <tr>
       <td><sub>Mercurial</sub></td>
-      <td><sub>SQL</sub></td>
-      <td><sub>PL/SQL</sub></td>
+      <td><sub>Git</sub></td>
+      <td><sub>Apache Httpd</sub></td>
+      <td><sub>ActiveMQ</sub></td>
       <td><sub>Postgresql</sub></td>
       <td><sub>Oracle</sub></td>
       <td><sub>Billing Systems</sub></td>
     </tr>
-      <td><sub>Open Source</sub></td>
-      <td><sub>OSS Platforms</sub></td>
-    <tr>
-    </tr>
   </tbody>
 </table>
 
-
 ### Experience
 #### Senior DevOps Specialist at NBN Co Limited
-April 2014 - Present (1 year 5 months)
+April 2014 - Present
 
 The same as below +
-- Responsible for Enterprise level platforms automation ( Mostly IBM and Oracle products).
+- Full stack automation in AWS.
+- Cloud Dev/Ops.
+- Zero Downtime deployments design and implementation.
+- Solutions Architecture/Implementation/Support.
+- Multiple application migrations into AWS.
+- Establishment of coding/project/operational patterns.
+- Responsible for on premise enterprise platforms automation ( Mostly IBM and Oracle products).
 - Leading the security-related aspects of DevOps.
 - Continues Improvements, Innovation and Security.
 
 Achievements:
+- Designed and implemented on premise Zero Downtime deployment solution.
+- Couched a few new team members to become DevOps gurus.
+- Successfully led a shift from using Puppet to Ansible.
+- Successfully led a shift from a Ruby powered "shop" to a GoLang powered "shop".
 - Migrated **all** non TLS/SSL protected endpoints to HTTPS endpoints.
 - Implemented two factor authorization for Mcollective + ActiveMQ cluster.
 - Designed and implemented an automatic penetration testing framework to test internal & external NBN's applications.  
 - Rolled out Ansible based solutions at NBN.
-- Fully automated a complex IBM's Maximo product.
+- Fully automated a complex IBM's Maximo platform.
 
 #### Developer Operations at NBN Co Limited
 July 2012 - March 2014 (1 year 9 months)
