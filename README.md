@@ -13,7 +13,7 @@
 </table>
 
 ### Summary
-I am a certified (**5/5 certificates**) AWS Professional with a solid IT background. Mainly focused on a Full Stack Cloud Automation, DevOps, CI/CD practises, Serverless, Microservicies and Immutable architecturies, Ansible/Puppet, Ruby, Python, GoLang, Git workflow and Open Sourced solutions.
+I am a certified (**5/5 certificates**) AWS Professional with a solid IT background. Mainly focused on a Full Stack Cloud Automation, DevOps, CI/CD practises, Serverless, Microservicies and Immutable architectures, Ansible/Puppet, Ruby, Python, GoLang, Git workflow and Open Sourced solutions.
 
 ### Specialties
 - AWS
@@ -68,8 +68,10 @@ I am a certified (**5/5 certificates**) AWS Professional with a solid IT backgro
     </tr>
   </tbody>
 </table>
-
+<br>
+<br>
 ### Experience
+
 #### Senior DevOps Specialist at NBN Co Limited  April 2014 - Present
 
 - Full stack automation in AWS.
@@ -87,7 +89,7 @@ I am a certified (**5/5 certificates**) AWS Professional with a solid IT backgro
 - Designed and implemented on premise Zero Downtime deployment solution.
 - Couched new team members to become DevOps gurus.
 - Successfully led a shift from Puppet to Ansible and Ruby to GoLang.
-- Implemented two factor authorization for Mcollective + ActiveMQ cluster.
+- Implemented two factor authorisation for Mcollective + ActiveMQ cluster.
 - Designed and implemented an automatic penetration testing framework to test internal & external NBN's applications.  
 - Rolled out Ansible based solutions at NBN.
 - Migrated **all** non TLS/SSL protected endpoints to HTTPS endpoints.
