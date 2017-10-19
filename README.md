@@ -13,7 +13,7 @@
 </table>
 
 ### Summary
-I am a certified (**5/5 certificates**) AWS Professional with a solid IT background. Mainly focused on a Full Stack Cloud Automation, DevOps, CI/CD practises, Serverless, Microservicies and Immutable architectures, Ansible/Puppet, Ruby, Python, GoLang, Git workflow and Open Sourced solutions.
+I am a certified (**6/7 certificates**) AWS Professional with a solid IT background. My main skill is an ability to learn and understand new things, especially in new technology area, in a very quick way. I love to implement very simple, highly productive, secure and cost efficient solutions.
 
 ### Specialties
 - AWS
@@ -24,34 +24,34 @@ I am a certified (**5/5 certificates**) AWS Professional with a solid IT backgro
 - Infrastructure automation (Infrastructure as a code)
 - Build and deployment automation (One click button deployments)
 - Continuous Delivery/Integration/Improvements
-- Software engineers support
+- Software Engineers support
 - Technical problems analysis and troubleshooting
 
 ### Skills & Expertise
 <table>
   <tbody>
     <tr>
-      <td><sub>AWS</sub></td>
-      <td><sub>Full Stack Automation</sub></td>
-      <td><sub>DevOps</sub></td>
-      <td><sub>Agile Methodology</sub></td>
-      <td><sub>Cloud Dev/Ops</sub></td>
+      <td><sub><strong>AWS</sub></td>
+      <td><sub><strong>Full Stack Automation</sub></td>
+      <td><sub><strong>DevOps</sub></td>
+      <td><sub><strong>Agile Methodology</sub></td>
+      <td><sub><strong>Cloud Dev/Ops</sub></td>
       <td><sub>Tests automation</sub></td>
-      <td><sub>CI/CD</sub></td>
+      <td><sub><strong>CI/CD practices </sub></td>
     </tr>
     <tr>
-      <td><sub>Linux</sub></td>
+      <td><sub><strong>Linux</sub></td>
       <td><sub>Puppet</sub></td>
-      <td><sub>Ansible</sub></td>
+      <td><sub><strong>Ansible</sub></td>
       <td><sub>Mcollective</sub></td>
       <td><sub>Vagrant</sub></td>
-      <td><sub>Packer</sub></td>
-      <td><sub>Docker</sub></td>
+      <td><sub><strong>Packer</sub></td>
+      <td><sub><strong>Docker</sub></td>
     </tr>
     <tr>
       <td><sub>Ruby</sub></td>
-      <td><sub>GoLang</sub></td>
-      <td><sub>Python</sub></td>
+      <td><sub><strong>GoLang</sub></td>
+      <td><sub><strong>Python</sub></td>
       <td><sub>Bash scripting</sub></td>
       <td><sub>C</sub></td>
       <td><sub>SQL</sub></td>
@@ -59,7 +59,7 @@ I am a certified (**5/5 certificates**) AWS Professional with a solid IT backgro
     </tr>
     <tr>
       <td><sub>Mercurial</sub></td>
-      <td><sub>Git</sub></td>
+      <td><sub><strong>Git</sub></td>
       <td><sub>Apache Httpd</sub></td>
       <td><sub>ActiveMQ</sub></td>
       <td><sub>Postgresql</sub></td>
@@ -72,7 +72,19 @@ I am a certified (**5/5 certificates**) AWS Professional with a solid IT backgro
 <br>
 ### Experience
 
-#### Senior DevOps Specialist at NBN Co Limited  April 2014 - Present
+#### Senior Infrastructure Engineer at Atlassian March 2017 - present
+
+- Full stack implementation of Micro services in AWS.
+- Support and development of existing Tier 0 applications:
+  - Atlassian DNS.
+  - Atlassian Smart Edge proxies.
+  - Atlassian MAIL services.
+
+**Achievements:**
+
+- Designed and implemented a very scalable(from 500 to > 50 Million r/month) and cost efficient serverless solution which added more visibility for mail transactions and helped to detect SPAM/other mail issues.
+
+#### Senior DevOps Specialist at NBN Co Limited  April 2014 - March 2017
 
 - Full stack automation in AWS.
 - Cloud Dev/Ops.
@@ -141,7 +153,7 @@ databases decreased from 500 000 entries (first run) to 0 - 300 per day.
 development and complete automation of the data importer for the payments reconciliation tool. - Cut down
 source system difference and DWH data from 1.2% to 0%.
 
-#### Engineer at Kcell JSC - November 2006 - August 2010 (3 years 10 months)
+#### Engineer at Kcell JSC - 2006 - August 2010 (3 years 10 months)
 
 - Extensively worked in UNIX (up to SUN E25K) and in Oracle (OLTP and OLAP) environments.
 - Resolved systems problems by debugging, identifying the main cause and applying corrective maintenance.
@@ -160,12 +172,3 @@ been matched. This helped reporting team to prepare better quality reports and a
 reconciliation between online-traffic and CDR-based traffic.
 - Designed, developed and implemented a
 monitoring tool, which allowed tracking 90% of faults with the Prepaid system.
-
-
-#### Shift Billing Engineer at Kcell JSC - May 2006 - October 2006 (6 months)
-
-- Worked as a 24/7/365 billing support engineer. Troubleshot problems acquired with billing systems users
-- Coordinated work of more than 200 dealers. Solved problems acquired with dealers billing applications.
-- Performed daily, weakly and monthly billing procedures. Generated clients invoice (about 700000 invoices).
-
-Recommendations available upon request
