@@ -13,17 +13,17 @@
 </table>
 
 ### Summary
-I am a certified (**6/7 certificates**) AWS Professional with a solid IT background. My main skill is an ability to learn and understand new things, especially in new technology area, in a very quick way. I love to implement very simple, highly productive, secure and cost efficient solutions.
+I am a certified (**6/7 certificates**) AWS/Linux Professional with a solid experience in a large variety of ICT disciplines/sectors. My main passion lies in implementing simple, highly productive, secure and cost efficient solutions by following modern Agile, DevOps and CI/CD practices.
 
 ### Specialties
 - AWS
-- Full Stack Automation
+- Solution architecture
+- Infrastructure as a code
+- Full stack automation
+- Continuous Delivery/Integration/Improvements
 - DevOps
 - Zero Downtime deployments
-- Solutions Architecture/Implementation/Support
-- Infrastructure automation (Infrastructure as a code)
-- Build and deployment automation (One click button deployments)
-- Continuous Delivery/Integration/Improvements
+- Build and deployment automation
 - Software Engineers support
 - Technical problems analysis and troubleshooting
 
@@ -34,10 +34,10 @@ I am a certified (**6/7 certificates**) AWS Professional with a solid IT backgro
       <td><sub><strong>AWS</sub></td>
       <td><sub><strong>Full Stack Automation</sub></td>
       <td><sub><strong>DevOps</sub></td>
-      <td><sub><strong>Agile Methodology</sub></td>
-      <td><sub><strong>Cloud Dev/Ops</sub></td>
+      <td><sub><strong>Agile</sub></td>
+      <td><sub><strong>Microservices</sub></td>
       <td><sub>Tests automation</sub></td>
-      <td><sub><strong>CI/CD practices </sub></td>
+      <td><sub><strong>CI/CD practices</sub></td>
     </tr>
     <tr>
       <td><sub><strong>Linux</sub></td>
@@ -50,7 +50,7 @@ I am a certified (**6/7 certificates**) AWS Professional with a solid IT backgro
     </tr>
     <tr>
       <td><sub>Ruby</sub></td>
-      <td><sub><strong>GoLang</sub></td>
+      <td><sub><strong>Golang</sub></td>
       <td><sub><strong>Python</sub></td>
       <td><sub>Bash scripting</sub></td>
       <td><sub>C</sub></td>
@@ -60,7 +60,7 @@ I am a certified (**6/7 certificates**) AWS Professional with a solid IT backgro
     <tr>
       <td><sub>Mercurial</sub></td>
       <td><sub><strong>Git</sub></td>
-      <td><sub>Apache Httpd</sub></td>
+      <td><sub>Apache Httpd/Nginx</sub></td>
       <td><sub>ActiveMQ</sub></td>
       <td><sub>Postgresql</sub></td>
       <td><sub>Oracle</sub></td>
@@ -74,15 +74,16 @@ I am a certified (**6/7 certificates**) AWS Professional with a solid IT backgro
 
 #### Senior Infrastructure Engineer at Atlassian March 2017 - present
 
-- Full stack implementation of Micro services in AWS.
-- Support and development of existing Tier 0 applications:
+- Full stack design and implementation of microservices in AWS.
+- Support and development of existing Tier 0 multi region, highly redundant services:
   - Atlassian DNS.
   - Atlassian Smart Edge proxies.
-  - Atlassian MAIL services.
+  - Atlassian MAIL/Messaging services.
 
 **Achievements:**
 
-- Designed and implemented a very scalable(from 500 to > 50 Million r/month) and cost efficient serverless solution which added more visibility for mail transactions and helped to detect SPAM/other mail issues.
+- Designed and implemented a very scalable(from 500 to > 50 Million r/month) and cost efficient serverless solution, which added more visibility for mail transactions and helped to detect SPAM/other mail issues.
+- Introduced new and enhanced existing dev/ops patterns used in a Team.
 
 #### Senior DevOps Specialist at NBN Co Limited  April 2014 - March 2017
 
