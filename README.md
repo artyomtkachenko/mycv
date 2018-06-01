@@ -13,11 +13,12 @@
 </table>
 
 ### Summary
-I am a certified (**6/7 certificates**) AWS/Linux Professional with a solid experience in a large variety of ICT disciplines/sectors. My main passion lies in implementing simple, highly productive, secure and cost efficient solutions by following modern Agile, DevOps and CI/CD practices.
+I am a certified (**6/8 AWS certificates**) Cloud Enginner with a solid experience in a large variety of ICT disciplines/sectors. My main passion lies in implementing simple, highly productive, secure and cost efficient solutions by following modern Agile, DevOps and CI/CD practices.
 
 ### Specialties
+- Cloud engineering
 - AWS
-- Solutions architecture
+- Kubernetes
 - Infrastructure as a code
 - Full stack automation
 - Continuous Delivery/Integration/Improvements
@@ -41,16 +42,16 @@ I am a certified (**6/7 certificates**) AWS/Linux Professional with a solid expe
     </tr>
     <tr>
       <td><sub><strong>Linux</sub></td>
-      <td><sub>Puppet</sub></td>
+      <td><sub><strong>Kubernetes</sub></td>
       <td><sub><strong>Ansible</sub></td>
-      <td><sub>Mcollective</sub></td>
-      <td><sub>Vagrant</sub></td>
+      <td><sub><strong>Golang</sub></td>
+      <td><sub><strong>Git</sub></td>
       <td><sub><strong>Packer</sub></td>
       <td><sub><strong>Docker</sub></td>
     </tr>
     <tr>
       <td><sub>Ruby</sub></td>
-      <td><sub><strong>Golang</sub></td>
+      <td><sub>Puppet</sub></td>
       <td><sub><strong>Python</sub></td>
       <td><sub>Bash scripting</sub></td>
       <td><sub>C</sub></td>
@@ -59,7 +60,7 @@ I am a certified (**6/7 certificates**) AWS/Linux Professional with a solid expe
     </tr>
     <tr>
       <td><sub>Mercurial</sub></td>
-      <td><sub><strong>Git</sub></td>
+      <td><sub>Vagrant</sub></td>
       <td><sub>Apache Httpd/Nginx</sub></td>
       <td><sub>ActiveMQ</sub></td>
       <td><sub>Postgresql</sub></td>
@@ -72,7 +73,12 @@ I am a certified (**6/7 certificates**) AWS/Linux Professional with a solid expe
 <br>
 ### Experience
 
-#### Senior Systems Engineer at Atlassian March 2017 - present
+#### Cloud Engineer at Virgin Australia April 2018 - present
+
+- AWS and Kubernetes SME
+- Esteblishment of CI/CD and DevOps practicies.
+
+#### Senior Systems Engineer at Atlassian March 2017 - March 2018
 
 - Full stack design and implementation of microservices in AWS.
 - Support and development of existing Tier 0 multi region, highly redundant services:
