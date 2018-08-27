@@ -1,13 +1,13 @@
-### Artyom Tkachenko
+### Artyom (Tim) Tkachenko
 <table>
   <tbody>
     <tr>
       <td><sub>Email: </sub></td>
-      <td><sub>n/a</sub></td>
+      <td><sub></sub></td>
     </tr>
     <tr>
       <td><sub>Mob phone:</sub></td>
-      <td><sub>n/a</sub></td>
+      <td><sub></sub></td>
     </tr>
   </tbody>
 </table>
@@ -75,8 +75,9 @@ I am a certified (**6/8 AWS certificates**) Cloud Enginner with a solid experien
 
 #### Cloud Engineer at Virgin Australia April 2018 - present
 
-- AWS and Kubernetes SME
-- Esteblishment of CI/CD and DevOps practicies.
+- Establishment of best infrastructure as a code practices for AWS.
+- End to end design and implementation of Kubernetes + Istio setup on top of AWS.
+- Establishment of best CI/CD and DevSecOps patterns and practices for microservices.
 
 #### Senior Systems Engineer at Atlassian March 2017 - March 2018
 
