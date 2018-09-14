@@ -16,13 +16,13 @@
 I am a certified (**6/8 AWS certificates**) Cloud Enginner with a solid experience in a large variety of ICT disciplines/sectors. My main passion lies in implementing simple, highly productive, secure and cost efficient solutions by following modern Agile, DevOps and CI/CD practices.
 
 ### Specialties
-- Cloud engineering
+- Cloud/Systems engineering
 - AWS
 - Kubernetes
 - Infrastructure as a code
 - Full stack automation
 - Continuous Delivery/Integration/Improvements
-- DevOps
+- DevOps/SRE
 - Zero Downtime deployments
 - Build and deployment automation
 - Software Engineers support
@@ -32,9 +32,10 @@ I am a certified (**6/8 AWS certificates**) Cloud Enginner with a solid experien
 <table>
   <tbody>
     <tr>
+      <td><sub><strong>Cloud/Systems Engineering</sub></td>
       <td><sub><strong>AWS</sub></td>
       <td><sub><strong>Full Stack Automation</sub></td>
-      <td><sub><strong>DevOps</sub></td>
+      <td><sub><strong>DevOps/SRE</sub></td>
       <td><sub><strong>Agile</sub></td>
       <td><sub><strong>Microservices</sub></td>
       <td><sub><strong>Solutions architecture</sub></td>
@@ -45,27 +46,20 @@ I am a certified (**6/8 AWS certificates**) Cloud Enginner with a solid experien
       <td><sub><strong>Kubernetes</sub></td>
       <td><sub><strong>Ansible</sub></td>
       <td><sub><strong>Golang</sub></td>
-      <td><sub><strong>Git</sub></td>
+      <td><sub><strong>Git/Mercurial </sub></td>
       <td><sub><strong>Packer</sub></td>
       <td><sub><strong>Docker</sub></td>
+      <td><sub><strong>Python</sub></td>
     </tr>
     <tr>
       <td><sub>Ruby</sub></td>
-      <td><sub>Puppet</sub></td>
-      <td><sub><strong>Python</sub></td>
+      <td><sub>Puppet labs stack</sub></td>
       <td><sub>Bash scripting</sub></td>
       <td><sub>C</sub></td>
       <td><sub>SQL</sub></td>
-      <td><sub>PL/SQL</sub></td>
-    </tr>
-    <tr>
-      <td><sub>Mercurial</sub></td>
-      <td><sub>Vagrant</sub></td>
-      <td><sub>Apache Httpd/Nginx</sub></td>
+      <td><sub>Reverse proxies</sub></td>
       <td><sub>ActiveMQ</sub></td>
-      <td><sub>Postgresql</sub></td>
-      <td><sub>Oracle</sub></td>
-      <td><sub>Billing Systems</sub></td>
+      <td><sub>Postgresql/Mysql</sub></td>
     </tr>
   </tbody>
 </table>
